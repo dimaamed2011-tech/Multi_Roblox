@@ -1,4 +1,4 @@
-# [Multi_Roblox](https://link-target.net/10577894/KsmgPcBkHk8E)
+# [Multi_Roblox](https://github.com/dimaamed2011-tech/Multi_Roblox/tags)
 
 Утилита для Windows, которая позволяет открывать несколько окон Roblox одновременно.
 
@@ -19,7 +19,7 @@
 
 ## Установка и запуск
 
-1. Скачайте [Multi_Roblox.exe](https://link-target.net/10577894/KsmgPcBkHk8E).
+1. Скачайте [Multi_Roblox.exe](https://github.com/dimaamed2011-tech/Multi_Roblox/tags).
 2. Запустите [Multi_Roblox.exe](https://link-target.net/10577894/KsmgPcBkHk8E).
 
 ## Важно
