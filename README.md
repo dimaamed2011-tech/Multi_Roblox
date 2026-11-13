@@ -21,6 +21,7 @@
 
 1. Скачайте [Multi_Roblox.exe](https://github.com/dimaamed2011-tech/Multi_Roblox/tags).
 2. Запустите [Multi_Roblox.exe](https://link-target.net/10577894/KsmgPcBkHk8E).
+3. Поставить звездочку проекту
 
 ## Важно
 
